@@ -1,6 +1,6 @@
 cask "call-to-meet-notch" do
-  version "1.42.0"
-  sha256 "01e66ad2247785883bb9cb3aa112f249120ef6291d21b3de30793c981be0f816"
+  version "1.43.0"
+  sha256 "e6fc125ed779536afa0ea6a7fe0ba01bbdc2ef36a7ddce8d4b36504fac3c048d"
 
   url "https://ctm-mac.web.app/CallToMeetNotch.zip"
   name "Call to Meet Notch"
